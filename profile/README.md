@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/icon.png" alt="MoonFlux" width="100" />
+  <img src="moonflux.png" alt="MoonFlux" width="100" />
 </p>
 
 <h1 align="center">MoonFlux Automations</h1>
