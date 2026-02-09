@@ -120,7 +120,7 @@ All feature suggestions and bug reports should be submitted through our Discord 
 ### 🧑‍💻 Maintainer
 
 sea1465 Founder & Lead Developer 
-- Discord: **[Discord User](discord.com/users/989541371243290654)**
+- Discord: **[Discord User](https://discord.com/users/989541371243290654)**
 
 ---
 
