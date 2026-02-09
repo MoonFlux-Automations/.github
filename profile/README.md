@@ -25,7 +25,7 @@ MoonFlux Automations handles verification flows, cross-platform identity mapping
 ## What We Build
 
 ### 🔗 Verification Platform
-Connect Roblox and Discord identities with OAuth-secured verification flows. Users link once, developers query everywhere. Features include:
+Securely link Roblox and Discord identities using OAuth-based verification. Users link once; developers verify anywhere. Features include:
 - Secure PKCE-protected OAuth flows
 - Server-scoped access control
 - Instant verification status sync
